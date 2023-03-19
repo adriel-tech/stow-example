@@ -1,0 +1,6 @@
+require('autocmds')
+require('keymap')
+require('mouse')
+require('options')
+require('statusline')
+require('theme')

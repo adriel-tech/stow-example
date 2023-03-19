@@ -1,0 +1,22 @@
+[user]
+    name = Johnny D
+    email = johnnyD@johnnyd.com
+    username = johnnyd
+
+[color]
+    ui = true
+    diff = auto
+    status = auto
+    branch = auto
+    interactive = auto
+	
+[core]
+    editor = $EDITOR
+
+[credential]
+    # 60 minutes = 3600 seconds
+    helper = cache --timeout 3600
+
+[github]
+    user = johnnyD@johnnyd.com
+    token = token
