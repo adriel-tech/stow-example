@@ -1,11 +1,11 @@
-## stow-example ~/.dotfiles
+## stow-example dotfiles
 
-These are example 'dotfiles' managed with xstow and git.
-[xstow](https://www.freshports.org/sysutils/xstow/).
+These are example 'dotfiles' managed with [xstow](https://www.freshports.org/sysutils/xstow/) and git.
 This is a basic repo being used as an example for
-(this blog post)[https://adriel-tech.github.io/bastillebsd/freebsd13/2021/11/12/BastilleBSD-Tips.html]
+[this blog post](https://adriel-tech.github.io/bastillebsd/freebsd13/2021/11/12/BastilleBSD-Tips.html)
 
-General
+## General
+
 ~~~
  bin-files    > Misc scripts and binaries .local/bin
  git          > Distributed version control system
